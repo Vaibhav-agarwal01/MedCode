@@ -1,1 +1,1 @@
-function App() { return 'hello'; }
+function App() { return 'hello world'; }
