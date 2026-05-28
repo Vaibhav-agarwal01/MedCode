@@ -1,1 +1,2 @@
-function App() { return 'hello world'; }
+import './index.css';
+function App() { return 'MedCode'; }
