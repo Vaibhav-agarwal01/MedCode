@@ -1,1 +1,3 @@
-# MedCode Prototype
+# MedCode Platform
+
+Currently in development.
