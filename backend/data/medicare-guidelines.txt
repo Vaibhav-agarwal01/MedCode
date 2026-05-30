@@ -1,0 +1,28 @@
+Medicare Billing Guidelines - Dummy Reference Corpus
+
+Section 1: Medical Necessity and General Documentation
+Claims must be supported by documentation showing that each billed service was medically necessary for the patient's presenting problem, diagnosis, symptoms, or established treatment plan. The clinical note should include the reason for the encounter, relevant history, exam or objective findings, assessment, plan, and any orders or services performed. Documentation must be legible, dated, and attributable to the rendering provider.
+
+Section 2: Diagnosis Coding Requirements
+ICD-10 diagnosis codes should be selected to the highest specificity supported by the clinical note. The record should identify the condition being treated, its acuity when relevant, laterality when relevant, anatomic site, and any complications or manifestations. Unspecified codes may be used only when the note does not support a more specific code. A diagnosis code should not be assigned when the condition is only listed as a rule-out, suspected, or differential diagnosis without supporting assessment or treatment.
+
+Section 3: Evaluation and Management Services
+Evaluation and management services require documentation of the medical decision making or time supporting the selected service level. Medical decision making may include the number and complexity of problems addressed, the amount and complexity of data reviewed or ordered, and the risk of complications, morbidity, or mortality. The assessment and plan should connect the billed encounter to the patient's documented problems and should show why the service was reasonable and necessary.
+
+Section 4: Procedure and CPT Coding Requirements
+CPT procedure codes should match the service actually performed and documented. The note should include the procedure name, anatomic site, laterality when applicable, indication, key findings, and outcome. For diagnostic tests, the record should include the ordering reason, test performed, interpretation when required, and how the result affects patient management. A procedure should not be billed solely from an order if there is no documentation that the service was performed.
+
+Section 5: Common Missing Documentation Issues
+Claims may be denied or require additional documentation when the note lacks a clear diagnosis, lacks medical necessity for the service, omits laterality or anatomic site, does not document the procedure performed, fails to connect test results to patient management, or uses copy-forward language without encounter-specific findings. Missing signatures, missing dates, and insufficient provider attribution may also support denial.
+
+Section 6: Diabetes Example
+For diabetes mellitus claims, documentation should state the type of diabetes, whether complications are present, relevant control status when documented, and any associated manifestations such as neuropathy, chronic kidney disease, retinopathy, or foot ulcer. Diabetes codes should not include complications unless the note clearly links the complication to diabetes or the provider documents the relationship.
+
+Section 7: Hypertension Example
+For hypertension claims, documentation should distinguish essential hypertension from hypertensive heart disease, hypertensive chronic kidney disease, or hypertensive heart and chronic kidney disease when supported. If chronic kidney disease or heart failure is present, the note should document the related condition, stage or severity when available, and treatment plan.
+
+Section 8: Respiratory Visit Example
+For cough, shortness of breath, bronchitis, pneumonia, asthma, or COPD encounters, the note should document symptom duration, severity, associated findings, relevant exam findings, assessment, and treatment. Procedure coding for spirometry, nebulizer treatment, chest imaging, or oxygen testing requires documentation that the service was performed and medically necessary.
+
+Section 9: Appeal Support
+An appeal letter should cite the documented clinical facts, the assigned diagnosis and procedure codes, and the payer or Medicare rule showing why the claim meets coverage or documentation requirements. If the denial alleges missing documentation, the appeal should identify where the record supports medical necessity or acknowledge any specific supplemental documentation being attached.
